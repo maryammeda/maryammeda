@@ -16,9 +16,9 @@
 
 ## About
 
-I'm a CS student at **Rochester Institute of Technology Dubai** (GPA 3.5, Dean's List) building full-stack AI products. Currently a **Full-Stack AI Engineer Intern at Plato Tech**, working on *MedScribe* — an AI-powered medical transcription platform.
+CS student at **Rochester Institute of Technology Dubai** (B.Sc. Computing & Information Technologies, GPA 3.5, Dean's List) with hands-on internship experience building full-stack AI products.
 
-Strongest in **Python / FastAPI** backends and **React** frontends. Most recently shipped *Ocular* — a browser-based RAG search engine that indexes and reasons over 1,000+ personal files entirely on the client.
+Currently a **Full-Stack AI Engineer Intern at Plato Tech**, working on *MedScribe* — an AI-powered medical transcription platform that records, summarizes, and structures doctor-patient conversations across multiple specialties. Strongest in **Python / FastAPI backends** and **React frontends**.
 
 <br/>
 
@@ -45,6 +45,7 @@ Strongest in **Python / FastAPI** backends and **React** frontends. Most recentl
   <img src="https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=a3b8d8" />
   <img src="https://img.shields.io/badge/NumPy-0a0a0f?style=for-the-badge&logo=numpy&logoColor=a3b8d8" />
   <img src="https://img.shields.io/badge/scikit--learn-0a0a0f?style=for-the-badge&logo=scikitlearn&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/Matplotlib-0a0a0f?style=for-the-badge&logo=python&logoColor=a3b8d8" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=a3b8d8" />
@@ -56,33 +57,77 @@ Strongest in **Python / FastAPI** backends and **React** frontends. Most recentl
 
 <br/>
 
-## Selected Work
+## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/maryammeda/Ocular">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryammeda&repo=Ocular&hide_border=true&bg_color=0a0a0f&title_color=a3b8d8&icon_color=8fa9c8&text_color=c9d6e8" />
-  </a>
-  <a href="https://github.com/maryammeda/VersoStack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryammeda&repo=VersoStack&hide_border=true&bg_color=0a0a0f&title_color=a3b8d8&icon_color=8fa9c8&text_color=c9d6e8" />
-  </a>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🔭 Ocular
+
+<a href="https://github.com/maryammeda/Ocular">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryammeda&repo=Ocular&hide_border=true&bg_color=0a0a0f&title_color=a3b8d8&icon_color=8fa9c8&text_color=c9d6e8" />
+</a>
+
+Privacy-first AI search engine that reads inside your files. Tesseract OCR (server + client), dual-engine search via SQLite FTS5 and IndexedDB, and a RAG chat with Groq LLaMA + Cerebras + Gemini fallback delivering cited streamed answers.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/FastAPI-0a0a0f?style=flat-square&logo=fastapi&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/SQLite-0a0a0f?style=flat-square&logo=sqlite&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/Tesseract-0a0a0f?style=flat-square&logo=google&logoColor=a3b8d8" />
 </p>
-<p align="center">
-  <a href="https://github.com/maryammeda/PawFinder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryammeda&repo=PawFinder&hide_border=true&bg_color=0a0a0f&title_color=a3b8d8&icon_color=8fa9c8&text_color=c9d6e8" />
-  </a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### ⚡ VersoStack
+
+<a href="https://github.com/maryammeda/VersoStack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryammeda&repo=VersoStack&hide_border=true&bg_color=0a0a0f&title_color=a3b8d8&icon_color=8fa9c8&text_color=c9d6e8" />
+</a>
+
+Secure RESTful task-management API with full auth, PostgreSQL + SQLModel + Alembic migrations, Redis caching for accelerated responses, Dockerized infrastructure, and automated daily email reminders.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/FastAPI-0a0a0f?style=flat-square&logo=fastapi&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0a0a0f?style=flat-square&logo=postgresql&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/Redis-0a0a0f?style=flat-square&logo=redis&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/Docker-0a0a0f?style=flat-square&logo=docker&logoColor=a3b8d8" />
 </p>
 
-**Ocular** — Browser-based RAG search engine. Tesseract OCR (server + client) over 1,000+ personal files. Dual-engine search (SQLite FTS5 + IndexedDB) with sub-millisecond results. Multi-LLM cited chat (Groq LLaMA / Cerebras / Gemini fallback). Three-way Drive ingestion with watchdog auto-reindexing.
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 
-**VersoStack** — Secure task-management REST API. FastAPI + PostgreSQL (SQLModel, Alembic) + Redis caching + Docker, with automated daily email reminders.
+### 🐾 PawFinder
 
-**PawFinder** — Full-stack pet adoption platform built with a four-person team. Java Spring Boot MVC, MySQL + Spring Data JPA, Mustache + Bootstrap.
+<a href="https://github.com/maryammeda/PawFinder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryammeda&repo=PawFinder&hide_border=true&bg_color=0a0a0f&title_color=a3b8d8&icon_color=8fa9c8&text_color=c9d6e8" />
+</a>
 
-<br/>
+Full-stack pet adoption platform built with a 4-person team. MVC backend in Java Spring Boot exposing RESTful APIs for user accounts and adoption workflows, with relational schemas in MySQL via Spring Data JPA.
 
-## Honors
+<p>
+  <img src="https://img.shields.io/badge/Java-0a0a0f?style=flat-square&logo=openjdk&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-0a0a0f?style=flat-square&logo=springboot&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/MySQL-0a0a0f?style=flat-square&logo=mysql&logoColor=a3b8d8" />
+  <img src="https://img.shields.io/badge/Bootstrap-0a0a0f?style=flat-square&logo=bootstrap&logoColor=a3b8d8" />
+</p>
 
-Dean's List · RIT DesignAthon (3rd Place) · "Art of Phishing" Design Award (3rd Place) · Harvard CS50 · Stanford Machine Learning Specialization
+</td>
+<td width="50%" align="center" valign="top">
+
+<br/><br/>
+
+<sub>More on <a href="https://github.com/maryammeda?tab=repositories">my repositories →</a></sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -109,4 +154,3 @@ Dean's List · RIT DesignAthon (3rd Place) · "Art of Phishing" Design Award (3r
     <img src="https://img.shields.io/badge/maryammeda-0a0a0f?style=for-the-badge&logo=github&logoColor=a3b8d8" />
   </a>
 </p>
-
