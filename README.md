@@ -109,3 +109,4 @@ Dean's List · RIT DesignAthon (3rd Place) · "Art of Phishing" Design Award (3r
     <img src="https://img.shields.io/badge/maryammeda-0a0a0f?style=for-the-badge&logo=github&logoColor=a3b8d8" />
   </a>
 </p>
+
