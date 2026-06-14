@@ -16,9 +16,7 @@
 
 ## About
 
-CS student at **Rochester Institute of Technology Dubai** (B.Sc. Computing & Information Technologies, GPA 3.5, Dean's List) with hands-on internship experience building full-stack AI products.
-
-Currently a **Full-Stack AI Engineer Intern at Plato Tech**, working on *MedScribe* — an AI-powered medical transcription platform that records, summarizes, and structures doctor-patient conversations across multiple specialties. Strongest in **Python / FastAPI backends** and **React frontends**.
+CS student with hands-on internship experience building full-stack AI products. Shipped **Ocular**, a browser-based RAG search engine with OCR across 1000+ personal files. Strongest in **Python/FastAPI** backends and **React** frontends.
 
 <br/>
 
